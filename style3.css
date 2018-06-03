@@ -1,0 +1,32 @@
+body {
+  color: #5688C7;
+  background-image: url("https://pbs.twimg.com/media/Dcf0sCCVQAEaWLc.jpg");
+  background-size: cover !important;
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 30px;
+}
+
+.img-profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 5px black;
+}
+
+.profile {
+  margin: 50px;
+  padding: 30px;
+}
+
+.description {
+  margin: 50px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.hobby {
+  margin: 50px;
+  padding: 20px;
+  font-size: 30px;
+}
